@@ -2,6 +2,7 @@
 A barebones CLI car management system written in C.
 
 ![main_screen](https://user-images.githubusercontent.com/83914704/124080374-f9ea7e00-da52-11eb-8053-695eaef69f79.png)
+
 *The program's main screen*
 
 
